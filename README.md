@@ -72,7 +72,7 @@ GIF created with QuickTime Player
 
 ## Notes
 Describe any challenges encountered while building the app.
-* I usually use heroku and aws to handle deployment, but just to practice for upcoming course sections, I deployed using Netlify only to realize that some of my builds were altered. Also, on chrome dev tools, the undeployed version of the website is pretty responsive, however after deploying to Netlify, that wasn't the case when I tried testing it on my phone.
+* N/A
 
 ## License
 
