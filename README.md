@@ -7,8 +7,8 @@ Please scroll to the bottom to see specific course related info about this proje
 
 # Features
 
-[![N|Solid](![Screenshot 2023-02-26 at 10 08 53 PM](https://user-images.githubusercontent.com/83262469/221467868-943dfd9c-4cb9-43b2-9009-16b1a986982d.png)
-)](https://weekend-worthy-afrobeats.netlify.app/)
+(![Screenshot 2023-02-26 at 10 08 53 PM](https://user-images.githubusercontent.com/83262469/221467868-943dfd9c-4cb9-43b2-9009-16b1a986982d.png)
+)(https://weekend-worthy-afrobeats.netlify.app/)
 
 The website offers a variety of features that will help you get your groove on, including:
 - A curated selection of the best Afrobeats tracks, updated weekly: We've handpicked the most popular and dance-worthy tracks so that you don't have to waste time searching for them yourself.
