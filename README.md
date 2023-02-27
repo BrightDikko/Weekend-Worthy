@@ -5,9 +5,10 @@ Welcome to Weekend Worthy Afrobeats! If you're looking for the hottest tunes to 
 Please scroll to the bottom to see specific course related info about this project. Thank you!
 
 
-# Features
+# Features + Video Walkthrough
+> Click on the play button to see video walkthough
 
-![Screenshot 2023-02-26 at 10 59 15 PM](https://user-images.githubusercontent.com/83262469/221472156-85be8f18-b9be-4ddc-8746-e1d105fb1fa0.png)
+https://user-images.githubusercontent.com/83262469/221473109-1b95f045-51e1-4508-899b-6b006f1fe851.mov
 
 ![Screenshot 2023-02-26 at 11 04 52 PM](https://user-images.githubusercontent.com/83262469/221472086-d1e3374f-bf4a-40fc-8260-61f902ba1cbb.png)
 
@@ -23,9 +24,7 @@ The website offers a variety of features that will help you get your groove on, 
 - Accessibilty features integrated to ensure that everyone is able to have an enjoyable and exhilarating experience on the website, regardless of abilities or disabilitiies.
 
 
-### Getting Started
-> To get started with Weekend Worthy Afrobeats, simply visit our website at https://weekend-worthy-afrobeats.netlify.app/. Once you're there, you can start browsing our selection of tracks and clicking our carefully designed buttons with relevant linkss to help you explore more about our selections.
-
+# Getting Started
 
 ### Browsing Tracks
 > Our track list page is where the magic happens! Here, you'll find out who our artiste of the week is. You'll also be provided with a list of top 10 tracks to listen to, including the latest hits, classic favorites, and hidden gems.
@@ -69,11 +68,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
+(https://user-images.githubusercontent.com/83262469/221473109-1b95f045-51e1-4508-899b-6b006f1fe851.mov)
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with QuickTime Player
 
 ## Notes
 Describe any challenges encountered while building the app.
