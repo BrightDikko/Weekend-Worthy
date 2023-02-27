@@ -7,7 +7,9 @@ Please scroll to the bottom to see specific course related info about this proje
 
 # Features
 
-![Screenshot 2023-02-26 at 10 08 53 PM](https://user-images.githubusercontent.com/83262469/221467868-943dfd9c-4cb9-43b2-9009-16b1a986982d.png)
+
+
+https://user-images.githubusercontent.com/83262469/221470507-27398dc4-f622-477a-b8c8-eeeaebe88a35.mov
 (https://weekend-worthy-afrobeats.netlify.app/)
 
 The website offers a variety of features that will help you get your groove on, including:
