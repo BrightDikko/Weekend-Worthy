@@ -7,14 +7,19 @@ Please scroll to the bottom to see specific course related info about this proje
 
 # Features
 
+![Screenshot 2023-02-26 at 10 59 15 PM](https://user-images.githubusercontent.com/83262469/221472156-85be8f18-b9be-4ddc-8746-e1d105fb1fa0.png)
 
+![Screenshot 2023-02-26 at 11 04 52 PM](https://user-images.githubusercontent.com/83262469/221472086-d1e3374f-bf4a-40fc-8260-61f902ba1cbb.png)
 
-![Screenshot 2023-02-26 at 10 08 53 PM](https://user-images.githubusercontent.com/83262469/221470630-20a38d78-2e4a-4e69-ad88-c25a73c5c089.png)(https://weekend-worthy-afrobeats.netlify.app/)
 
 The website offers a variety of features that will help you get your groove on, including:
 - A curated selection of the best Afrobeats tracks, updated weekly: We've handpicked the most popular and dance-worthy tracks so that you don't have to waste time searching for them yourself.
 - Dynamic playlist that updates regularly with the latest hits: We keep our playlist up to date with the latest and greatest Afrobeats tracks, so you can be sure you're always listening to the hottest music.
-- User-friendly interface with easy navigation and playback controls: Our website is designed with the user in mind, so you can easily find your way around and control your music playback without any hassle.
+![Screenshot 2023-02-26 at 11 10 01 PM](https://user-images.githubusercontent.com/83262469/221472423-5c2f34e1-7a33-4c69-b75b-0bca645e8fba.png)
+
+- User-friendly interface with responsive web design and easy navigation and playback controls: Our website is designed with the user in mind, so you can easily find your way around and control your music playback without any hassle.
+![Screenshot 2023-02-26 at 11 10 50 PM](https://user-images.githubusercontent.com/83262469/221472505-09eafa5e-f5ac-4de6-9b29-f895a2da42ca.png)
+
 - Accessibilty features integrated to ensure that everyone is able to have an enjoyable and exhilarating experience on the website, regardless of abilities or disabilitiies.
 
 
