@@ -14,7 +14,7 @@ const SongCard = ({
     spotifyLink,
 }) => {
     return (
-        <div className=" shadow-lg  flex mb-40 mx-10 flex-col sm:h-[550px] lg:flex-row rounded-[50px] md:rounded-[70px] overflow-hidden hover:outline hover:outline-yellow-400 hover:outline-4">
+        <div className=" shadow-lg  flex mb-40 mx-10 flex-col sm:h-[400px] lg:flex-row rounded-[50px] md:rounded-[70px] overflow-hidden hover:outline hover:outline-yellow-400 hover:outline-4">
             <div
                 className={
                     "pb-16 pt-6 pl-10 sm:pl-0 sm:relative  md:pb-0 md:pt-0 md:pl- flex flex-1 order-2   bg-none bg-yellow-300 sm:items-center  lg:order-2 xl:bg-none lg:bg-yellow-300 bg-no-repeat bg-cover bg-center " +
