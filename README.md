@@ -6,7 +6,7 @@ Please scroll to the bottom to see specific course related info about this proje
 
 
 # Features
-#
+
 [![N|Solid](https://weekend-worthy-afrobeats.netlify.app/assets/girl-music-d518e73e.jpeg)](https://weekend-worthy-afrobeats.netlify.app/)
 
 The website offers a variety of features that will help you get your groove on, including:
